@@ -1,5 +1,3 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](./README.en.md)
-
 <p align="center">
   <img src="./public-web/src/assets/home/logo.png" alt="E-Masjid.My" width="80" height="80"/>
 </p>
