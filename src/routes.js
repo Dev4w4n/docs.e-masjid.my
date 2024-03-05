@@ -1,6 +1,8 @@
 import React from 'react'
 
 const Pengenalan = React.lazy(() => import('./views/pengenalan/Pengenalan'))
+const Rumusan = React.lazy(() => import('./views/rumusan/Rumusan'))
+const AkanDatang = React.lazy(() => import('./views/akandatang/AkanDatang'))
 const Dashboard = React.lazy(() => import('./views/dashboard/Dashboard'))
 const Colors = React.lazy(() => import('./views/theme/colors/Colors'))
 const Typography = React.lazy(() => import('./views/theme/typography/Typography'))
@@ -53,6 +55,8 @@ const Widgets = React.lazy(() => import('./views/widgets/Widgets'))
 
 const routes = [
   { path: '/', name: 'Pengenalan', element: Pengenalan },
+  { path: '/rumusan', name: 'Rumusan', element: Rumusan },
+  { path: '/akandatang', name: 'Akan Datang', element: AkanDatang },
   { path: '/dashboard', name: 'Dashboard', element: Dashboard },
   { path: '/theme', name: 'Theme', element: Colors, exact: true },
   { path: '/theme/colors', name: 'Colors', element: Colors },
