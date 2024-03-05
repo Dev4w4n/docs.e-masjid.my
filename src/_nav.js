@@ -27,13 +27,13 @@ const _nav = [
   {
     component: CNavItem,
     name: 'Rumusan Sistem',
-    to: '/dashboard',
+    to: '/rumusan',
     icon: <CIcon icon={cilSpreadsheet} customClassName="nav-icon" />,
   },
   {
     component: CNavItem,
     name: 'Pemasangan Sistem',
-    to: '/dashboard',
+    to: '/akandatang',
     icon: <CIcon icon={cilCloudDownload} customClassName="nav-icon" />,
   },
   {
@@ -43,13 +43,13 @@ const _nav = [
   {
     component: CNavItem,
     name: 'Laman Utama',
-    to: '/dashboard',
+    to: '/akandatang',
     icon: <CIcon icon={cilFilterPhoto} customClassName="nav-icon" />,
   },
   {
     component: CNavItem,
     name: 'Peti Cadangan',
-    to: '/dashboard',
+    to: '/akandatang',
     icon: <CIcon icon={cilCommentBubble} customClassName="nav-icon" />,
   },
   {
@@ -59,31 +59,31 @@ const _nav = [
   {
     component: CNavItem,
     name: 'Modul Dashboard',
-    to: '/dashboard',
+    to: '/akandatang',
     icon: <CIcon icon={cilSpeedometer} customClassName="nav-icon" />,
   },
   {
     component: CNavItem,
     name: 'Modul Khairat',
-    to: '/dashboard',
+    to: '/akandatang',
     icon: <CIcon icon={cilGift} customClassName="nav-icon" />,
   },
   {
     component: CNavItem,
     name: 'Modul Tabung',
-    to: '/dashboard',
+    to: '/akandatang',
     icon: <CIcon icon={cilMoney} customClassName="nav-icon" />,
   },
   {
     component: CNavItem,
     name: 'Modul Cadangan',
-    to: '/dashboard',
+    to: '/akandatang',
     icon: <CIcon icon={cilCommentBubble} customClassName="nav-icon" />,
   },
   {
     component: CNavItem,
     name: 'Modul Tetapan Masjid',
-    to: '/dashboard',
+    to: '/akandatang',
     icon: <CIcon icon={cilSettings} customClassName="nav-icon" />,
   },
 ]

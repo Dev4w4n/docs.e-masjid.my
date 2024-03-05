@@ -1,5 +1,5 @@
 import React from "react"
-import { CImage, CLink } from '@coreui/react'
+import { CImage } from '@coreui/react'
 
 import intro1png from '../../assets/images/intro1.png'
 import intro2png from '../../assets/images/intro2.png'
@@ -45,7 +45,9 @@ const Pengenalan = () => {
             <br />
 
             <div align="right" className="clearfix">
-              <CLink to="/dashboard">Seterusnya →</CLink>
+              <a href="#/rumusan">
+                Seterusnya →
+              </a>
             </div>
 
             <br />
