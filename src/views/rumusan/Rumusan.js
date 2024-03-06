@@ -42,7 +42,7 @@ const Rumusan = () => {
             <br />
 
             <div align="right" className="clearfix">
-              <a href="#/akandatang">
+              <a href="#/pemasangan">
                 Seterusnya →
               </a>
             </div>
