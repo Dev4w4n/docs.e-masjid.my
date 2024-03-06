@@ -16,7 +16,7 @@ const Rumusan = () => {
 
             <h2>Web Awam Masjid</h2>
             <p>
-                Web Awam Masjid adalah digunakan untuk menyediakan informasi semasa tentang masjid kepada anak-anak kariah.
+                Web Awam Masjid adalah digunakan untuk menyediakan informasi semasa tentang masjid kepada anak kariah.
             </p>
             <p>
                 Ia juga boleh digunakan untuk mendapatkan maklumat dari anak kariah.
@@ -34,7 +34,7 @@ const Rumusan = () => {
                 Web AJK Masjid adalah digunakan oleh pihak masjid.
             </p>
             <p>
-                Berikut adalah contoh paparan web ajk masjid.
+                Berikut adalah contoh paparan web AJK masjid.
             </p>
             <div className="clearfix">
               <CImage align="center" rounded src={rumusan2png} fluid width={500} height={500} />
