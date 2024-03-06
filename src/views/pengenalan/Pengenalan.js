@@ -19,11 +19,11 @@ const Pengenalan = () => {
                 anda perlu memahami cara untuk menggunakan laman web ini.
             </p>
 
-            <h2>Cara mengguna laman web ini</h2>
+            <h2>Cara menggunakan laman web ini</h2>
             <hr />
             <h4>Komputer</h4>
             <p>
-                Sekiranya anda menggunakan sebuah komputer, anda boleh menggunakan menu di sebelah kiri laman web ini, untuk pergi ke tutorial modul yang diingini.
+                Sekiranya anda menggunakan komputer, anda boleh menggunakan menu di sebelah kiri laman web ini, untuk pergi ke tutorial modul yang diingini.
             </p>
             <div className="clearfix">
               <CImage align="center" rounded src={intro1png} fluid width={500} height={500} />
