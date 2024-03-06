@@ -33,7 +33,7 @@ const _nav = [
   {
     component: CNavItem,
     name: 'Pemasangan Sistem',
-    to: '/akandatang',
+    to: '/pemasangan',
     icon: <CIcon icon={cilCloudDownload} customClassName="nav-icon" />,
   },
   {
