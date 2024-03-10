@@ -4,8 +4,14 @@ const AkanDatang = () => {
 
     return (
         <div>
-            Akan datang
+            <h3>Akan Datang</h3>
+            <div align="center" className="clearfix">
+              <a href="#/">
+                Kembali ke Halaman Utama
+              </a>
+            </div>
         </div>
+        
     )
 }
 

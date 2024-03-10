@@ -47,6 +47,12 @@ const Pemasangan = () => {
               </a>
             </div>
 
+            <div align="left" className="clearfix">
+              <a href="#/rumusan">
+                ← Kembali
+              </a>
+            </div>
+
             <br />
         </div>
         
