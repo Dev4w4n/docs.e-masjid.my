@@ -46,7 +46,11 @@ const Rumusan = () => {
                 Seterusnya →
               </a>
             </div>
-
+            <div align="left" className="clearfix">
+              <a href="#/">
+                ← Kembali
+              </a>
+            </div>
             <br />
         </div>
     )
